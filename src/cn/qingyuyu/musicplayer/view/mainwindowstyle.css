@@ -1,0 +1,11 @@
+.root {
+    -fx-font-family: "微软雅黑";
+    -fx-font-size: 12px;
+    -fx-background-image: url(/assets/image/background.png);
+    -fx-background-size: stretch stretch;
+    -fx-background-position: center center;
+}
+.VBox {
+
+   -fx-background:transparent;
+}
